@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pickleball-Scheduler/static/css/main.65bb1e3f.css",
+    "main.js": "/Pickleball-Scheduler/static/js/main.13c249ab.js",
+    "static/js/787.8d0e8e8e.chunk.js": "/Pickleball-Scheduler/static/js/787.8d0e8e8e.chunk.js",
+    "index.html": "/Pickleball-Scheduler/index.html",
+    "main.65bb1e3f.css.map": "/Pickleball-Scheduler/static/css/main.65bb1e3f.css.map",
+    "main.13c249ab.js.map": "/Pickleball-Scheduler/static/js/main.13c249ab.js.map",
+    "787.8d0e8e8e.chunk.js.map": "/Pickleball-Scheduler/static/js/787.8d0e8e8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bb1e3f.css",
+    "static/js/main.13c249ab.js"
+  ]
+}
