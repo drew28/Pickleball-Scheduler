@@ -3,7 +3,23 @@ import { Calendar, momentLocalizer } from 'react-big-calendar';
 import moment from 'moment';
 import 'react-big-calendar/lib/css/react-big-calendar.css';
 import './App.css';
+// Import Express, create instance of express, and listen on port 3000
 
+var express = require('express')
+// var app = express();
+// var port = process.env/PORT || 3000;
+
+// // Express Test
+// app.get('/', function (req, res) {
+//   res.send('Hello World!');
+// });
+
+// app.listen(port, function () {
+//   console.log('Example app listening on port 3000!');
+// });
+
+
+// Calendar
 const localizer = momentLocalizer(moment);
 
 const App = () => {

@@ -8,7 +8,7 @@ To deploy this with your current local version, run
 npm run deploy
 ```
 
-See deployement [here](https://krisvan.github.io/Pickleball-Scheduler/).
+See deployment [here](https://krisvan.github.io/Pickleball-Scheduler/).
 
 **Introduction** This web application allows users to schedule a time and day with multiple users, and provides a calender that displays a how many people are available. Also shows weather info.
 
